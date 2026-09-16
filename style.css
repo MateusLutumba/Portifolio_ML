@@ -105,8 +105,7 @@ ul{
     margin: 15px 0;
 }
 .foto1 img{
-    max-width: 1110px;
-    width: 350px;
+    width: 20rem;
     box-shadow: -1px 4px 20px #36e682;
     border-radius: 110px 110px 110px;
     position: relative;
@@ -191,7 +190,6 @@ main .fa-download{
 .especialidades{
     display: flex;
     justify-content: space-around;
-    gap: 30px;
     flex-wrap: wrap;
     width: 100%;
 }
@@ -206,7 +204,7 @@ main .fa-download{
     gap: 3rem;
     flex: 35% 1 1;
     margin: 1rem;
-    font-size: 100px;
+    font-size: 5rem;
 }
 .fa-html5:hover{
     text-shadow: 0px 0px 10px rgb(255, 94, 0);
